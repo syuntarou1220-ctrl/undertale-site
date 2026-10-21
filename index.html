@@ -1,0 +1,48 @@
+<head>
+    <title>Undertale販売サイト</title>
+</head>
+<img id="logo" src="Undertalelogo.png" alt="Undertaleロゴ" width="700">
+<h1>Undertale最高！</h1>
+<p>アンダーテイルはトビー・フォックスによって制作され、2015年9月15日にリリースされたロールプレイングゲームです。<br>物語は地下に落ちた人間の子供を追います。探索や脱出を試みる中で様々なモンスターに遭遇し、何よりも誰も殺す必要がないのが最高です!<br>しかし、ゲーム全体を通しての行動は重要であり、エンディングに大きく影響します。デモは公式サイトから無料でダウンロード・プレイでき、<br>フルゲームは<a class="site" href="https://store.steampowered.com/app/391540/Undertale/">Steam</a>、<a class="site" href="https://www.gog.com/en/game/undertale">GOG.com</a>、<a class="site" href="https://www.nintendo.com/us/store/products/undertale-switch/">Nintendo Switch</a>、<a class="site" href="https://www.xbox.com/ja-JP/games/store/undertale/9pjggx9xjxpb">Xbox</a>、<a class="site" href="https://store.playstation.com/en-us/product/UP3893-CUSA08801_00-TFSHVCUTPS400084">PlayStation</a>で購入可能です。</p>
+<a class="web" href="https://Undertale.com">
+    Undertale公式サイトへ！
+</a>
+<style>
+h1{
+color: white;
+}
+h1{
+    font-size: 40px;
+}
+p{
+color: white;
+}
+body{
+background-color: black;
+}
+body{
+text-align: center;
+}
+#logo{
+    margin-top: 30px;
+}
+.site{
+    color: rgb(85, 85, 255);
+}
+.site:hover{
+    color: rgba(0, 0, 255, 0.7);
+}
+.web{
+    color: white;
+    width: 300px;
+    height: 60px;
+    background-color: rgb(101, 101, 101);
+    border: none;
+    padding: 12px 12px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.web:hover{
+    background-color: rgb(60, 60, 60);
+}
+</style>
